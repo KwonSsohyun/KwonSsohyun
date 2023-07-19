@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp                <!-- 오라클 -->
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp                  <!-- 마이SQL -->
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/></a>&nbsp              <!-- 마리아 -->
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp             <!-- 포스트그레이SQL -->
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp             <!-- 포스트그레이SQL -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp                <!-- SQL라이트 -->
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp                <!-- 스프링프레임워크 -->
