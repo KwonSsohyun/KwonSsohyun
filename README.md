@@ -20,21 +20,14 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://creative103.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://creative103.notion.site/creative103/10ad2f664e3d4ae2a9c79b21076de2b7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="mailto:thgus4982@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thgus4982@gmail.com"/></a>
 </p>
 <br>
 
 <p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
-    <a href="https://pgmjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
-    <a href="https://pgmjun.notion.site/pgmjun/33e788d9f4484f3f84701b5ff92b7f1e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
-<Strong>📧Email📧</Strong><br>creative103@naver.com<br>
-
+  <Strong>📧Email📧</Strong><br>creative103@naver.com<br>
 </p>
 
 <br>
