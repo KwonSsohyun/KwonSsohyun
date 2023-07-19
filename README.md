@@ -24,7 +24,6 @@
   <a href="https://creative103.notion.site/creative103/10ad2f664e3d4ae2a9c79b21076de2b7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:thgus4982@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thgus4982@gmail.com"/></a>
 </p>
-<br>
 
 <h3 align="center">📧 Email 📧</h3>
 <p align="center">
