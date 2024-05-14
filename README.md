@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white"></a>&nbsp       <!-- 폰트어썸 -->
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">✨ Follow Me ✨</h3>
 <p align="center">
   <a href="https://creative103.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://creative103.notion.site/creative103/10ad2f664e3d4ae2a9c79b21076de2b7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
