@@ -3,7 +3,7 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <!-- 디자인 툴 -->
+  <!-- 디자인 -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/></a>&nbsp
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/sqlite-4169E1?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp                <!-- SQLite -->
   <br>
   <!-- 인프라 / DevOps -->
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp                   <!-- 리눅스 -->
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp                   <!-- Linux -->
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp          <!-- AWS -->
 </p>
 
