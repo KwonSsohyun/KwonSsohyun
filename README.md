@@ -42,8 +42,8 @@
 <h3 align="center">✨ Follow Me ✨</h3>
 <p align="center">
   <a href="https://creative103.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://creative103.notion.site/creative103/10ad2f664e3d4ae2a9c79b21076de2b7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="mailto:thgus4982@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thgus4982@gmail.com"/></a>
+  <a href="https://creative103.notion.site/18505293440180febb0ff274f403105d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="mailto:creative103@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=creative103@naver.com"/></a>
 </p>
 
 <h3 align="center">📧 Email 📧</h3>
@@ -55,9 +55,9 @@
 
 <p align="center">
   안녕하세요! 권소현입니다! 😊<br>
-  효율적으로 일하며, 사용자 경험을 최우선으로 생각하는 개발자입니다. 🌟<br>
+  효율적으로 일하며, 사용자 경험을 최우선으로 생각합니다. 🌟<br>
   사용자들이 편리하고 즐거운 경험을 쌓을 수 있도록 노력하고 있습니다! 🚀<br>
-  계속해서 사용자 중심의 서비스를 위해 개발하고 있습니다! 🐇<br>
+  계속해서 사용자 중심의 서비스를 위해 달리고 있습니다! 🐇<br>
 </p>
 
 <br>
