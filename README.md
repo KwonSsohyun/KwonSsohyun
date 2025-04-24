@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp        <!-- JavaScript -->
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp                  <!-- HTML -->
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp                     <!-- CSS -->
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>&nbsp    <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/></a>&nbsp    <!-- Tailwind CSS -->
   <br>
   <!-- 백엔드 -->
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp                    <!-- Java -->
